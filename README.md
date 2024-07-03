@@ -15,11 +15,3 @@ Defines the `Paddle` class, which also inherits from Turtle. This class manages 
 ### `scoreboard.py`
 
 Defines the `Scoreboard` class, which inherits from Turtle. This class is responsible for displaying and updating the score, and for managing the highscore mechanism.
-
-## Future Enhancements
-
-- **Single-Player Mode**: Implement AI for single-player mode.
-- **Improved Graphics**: Enhance the game visuals and animations.
-- **Sound Effects**: Add more diverse sound effects for different game events.
-- **Leaderboard**: Implement an online leaderboard for competitive play.
-
